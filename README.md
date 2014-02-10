@@ -31,3 +31,7 @@ You can override any of the following default options by either globally modifyi
         countLengthStr: 'characters remaining'
     };
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cballou/jquery-textcounter-plugin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
