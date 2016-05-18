@@ -1,3 +1,9 @@
+# jQuery TextCounter Plugin #
+
+A tiny plugin for handling input, textarea, and contentEditable countdowns. In other words, this plugin will calculate either word lengths or string lengths. To learn more, please check the official documentation.
+
+[Official Website Documentation](https://www.coreyballou.com/projects/jquery-textcounter-plugin/)
+
 ## Usage ##
 
 ```javascript
